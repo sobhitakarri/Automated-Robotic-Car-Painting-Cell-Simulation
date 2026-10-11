@@ -1,4 +1,4 @@
-# Robotic Car Painting Cell Simulation
+# Automated Robotic Car Painting Cell Simulation
 
 **YUKTII AI LABS – Robotics Simulation Intern Practical Assessment**
 
