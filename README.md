@@ -1,11 +1,11 @@
 # Automated Robotic Car Painting Cell Simulation
 
-**YUKTII AI LABS – Robotics Simulation Intern Practical Assessment**
+
 
 * **Candidate Name:** K S V S Sobhita
-* **Simulation Software:** CoppeliaSim (V-REP) / Python 3.x
+* **Simulation Software:** CoppeliaSim (V-REP) 
 * **Robot Selected:** 6-DOF UR10 Articulated Industrial Manipulator
-* **Target Role:** Robotics Simulation Intern – Yuktii AI Labs
+
 
 ---
 
