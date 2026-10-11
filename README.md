@@ -81,9 +81,3 @@ Both Python modules are completely self-contained and run directly in any standa
 3. **Collision Safety Envelope**: Dual-tier collision verification inspecting robot link segments against bounding volumes (AABBs) for the vehicle body, cabin, and conveyor fixtures.
 4. **Visual Spray Deposition**: Realistic spray particle atomization cone and dynamic surface coating color deposition.
 
----
-
-## 📧 Submission Info
-* **Author:** K S V S Sobhita
-* **Target Role:** Robotics Simulation Intern – Yuktii AI Labs
-* **Submission Email:** `connect@yuktiiai.in`
