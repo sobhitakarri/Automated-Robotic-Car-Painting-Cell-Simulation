@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🎨 AutoCoat Cell
-### 6-DOF UR10 Robotic Car Painting Cell — Trajectory Planning, Kinematics & Collision Simulation
+
+# 6-DOF UR10 Robotic Car Painting Cell — Trajectory Planning, Kinematics & Collision Simulation
 
 ![CoppeliaSim](https://img.shields.io/badge/Simulator-CoppeliaSim-blue)
 ![Robot](https://img.shields.io/badge/Robot-UR10%206--DOF-orange)
